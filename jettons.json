@@ -4981,6 +4981,20 @@
   ]
  },
  {
+  "address": "0:1005acc827a55b4b14ee89a237770382df565c8755ab19b0cf6b45f72924494b",
+  "description": "Hold $PRINTER & Receive TON every 5 minutes.",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqaqbazij6vbsxtuiai3dwoc31zch1wrgbdpa0x3ksrjs-d_.png?size=lg&key=ee4719",
+  "name": "TON PRINTER",
+  "social": [
+   "https://x.com/Ton_Printer",
+   "https://t.me/tonprinter_tg"
+  ],
+  "symbol": "PRINTER",
+  "websites": [
+   "https://tonprinter.fun"
+  ]
+ },
+ {
   "address": "0:00a7117b757c958b805b52c5102f194eac62447276c9ae963a9bc5c5eac0fcde",
   "description": "Full of care for your grandma. The TON meme hackathon, participants create viral mechanics aimed at uniting the community and exchanging creative ideas.",
   "image": "https://s.iimg.su/s/07/YZoWGMK82yxS289sIQt61qNYZAUXO95QLekZdpVm.png",
@@ -7131,6 +7145,19 @@
   ]
  },
  {
+  "address": "0:a9ea16debd200cf46d96c5e643a7432d7ba30f4d4268b99ac23487961e786539",
+  "description": "VNUK is a new investment reward token with great potential",
+  "image": "https://raw.githubusercontent.com/mR-vnukICH/art/main/logo/logo.png",
+  "name": "VNUK",
+  "social": [
+   "https://t.me/vnukton"
+  ],
+  "symbol": "VNUK",
+  "websites": [
+   "http://mrvnukich.life/"
+  ]
+ },
+ {
   "address": "0:2ce136054660d17857e05692c0132fa03fd15fbe2305af265dd52635c0339b49",
   "description": "Dove c'e Barilla, c'e casa.",
   "image": "https://i.ibb.co/k2r2p4hp/bafkreibzyh7yn6izsnzjhsx2tzxsksjsmzjazkpdlezbmzcob4opy4kvzq.jpg",
@@ -7504,6 +7531,90 @@
   "symbol": "ZMBANK",
   "websites": [
    "https://zackermanbank.com"
+  ]
+ },
+ {
+  "address": "0:d79ad6edd7e5923f4d2d4a1e8de851fee255fb2db9eb8ce442966b66b99aa0e1",
+  "description": "Affluent/Strategy-Vault/Ethena-Multiply-1/By-SingularV",
+  "name": "Ethena Multiply Vault",
+  "social": [
+   "https://x.com/AffluentOrg",
+   "https://t.me/affluent"
+  ],
+  "symbol": "affETHENAm",
+  "websites": [
+   "https://affluent.org/",
+   "https://app.affluent.org/"
+  ]
+ },
+ {
+  "address": "0:c8284cf60582e74d15a8e56e5aea6a19f4f5cdb7239538517b9e88bc51fbf76b",
+  "description": "Affluent TON",
+  "name": "Affluent TON",
+  "social": [
+   "https://x.com/AffluentOrg",
+   "https://t.me/affluent"
+  ],
+  "symbol": "AffluentTON",
+  "websites": [
+   "https://affluent.org/",
+   "https://app.affluent.org/"
+  ]
+ },
+ {
+  "address": "0:0343a25c2b434cb8d339bb009c4bd6e3727d914ef731608663365848872c14ad",
+  "description": "Affluent/Lending-Vault/TON-1/By-SingularV",
+  "name": "TON Lending Vault",
+  "social": [
+   "https://x.com/AffluentOrg",
+   "https://t.me/affluent"
+  ],
+  "symbol": "affTONl",
+  "websites": [
+   "https://affluent.org/",
+   "https://app.affluent.org/"
+  ]
+ },
+ {
+  "address": "0:edc50aa4808450411e615a5ad0c6224cb4bc23477ac460d5016c472f3c3c02b3",
+  "description": "Affluent/Strategy-Vault/TON-Multiply-1/By-SingularV",
+  "name": "TON Multiply Vault",
+  "social": [
+   "https://x.com/AffluentOrg",
+   "https://t.me/affluent"
+  ],
+  "symbol": "affTONm",
+  "websites": [
+   "https://affluent.org/",
+   "https://app.affluent.org/"
+  ]
+ },
+ {
+  "address": "0:06b609ebd46d170e294651170e077a54865f8ba3ffc9f936893f42b87b2f1cb9",
+  "description": "Affluent/Lending-Vault/USDT-1/By-SingularV",
+  "name": "USDT Lending Vault",
+  "social": [
+   "https://x.com/AffluentOrg",
+   "https://t.me/affluent"
+  ],
+  "symbol": "affUSDTl",
+  "websites": [
+   "https://affluent.org/",
+   "https://app.affluent.org/"
+  ]
+ },
+ {
+  "address": "0:73488b620b5be90d411fb437960f28e032eb5fe8223399ed7a8339fd88d96896",
+  "description": "Affluent/Strategy-Vault/USDT-Multiply-1/By-SingularV",
+  "name": "USDT Multiply Vault",
+  "social": [
+   "https://x.com/AffluentOrg",
+   "https://t.me/affluent"
+  ],
+  "symbol": "affUSDTm",
+  "websites": [
+   "https://affluent.org/",
+   "https://app.affluent.org/"
   ]
  },
  {
@@ -8612,6 +8723,11 @@
   "address": "0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2",
   "name": "Grabscape governance token",
   "symbol": "GGT"
+ },
+ {
+  "address": "0:1807ab429dc9efb20b06c63b45129d72e8ac3f721e1ae6e73a9e00082c468f38",
+  "name": "GiftHub",
+  "symbol": "GH"
  },
  {
   "address": "0:b068e5a95afc6587ef9568225291ff08e71126b825ca2a45ee18cdcff4f02425",
@@ -10012,6 +10128,11 @@
   "address": "0:745384c7ebd0810fa01e3bfc8714c5bebbdd14987ffae46c3902465b96ddc63b",
   "name": "Tvorog",
   "symbol": "TYS"
+ },
+ {
+  "address": "0:1a01717de3cb8ad63022e11c8ce72c1dfe08088f1f2e64ae162f91995fa1e590",
+  "name": "Tiny Verse Matter",
+  "symbol": "TYVM"
  },
  {
   "address": "0:ceae5466831055a3d23622373bce1966fe3021251dbb600fcb783a10b30e0dd3",
@@ -12849,6 +12970,25 @@
   "address": "0:a760235e5022a6d3aeb32050892891cd7a8a2732db8dcda7df2f4e17cc65e490",
   "name": "M-BTC",
   "symbol": "M-BTC"
+ },
+ {
+  "address": "0:e1c8fcdb223253fd69d8de01a9ae349850af5f88632358c7b3c4ef0c66251d7d",
+  "name": "Coinbase Wrapped BTC",
+  "symbol": "cbBTC"
+ },
+ {
+  "address": "0:3907bcae69403805294ca5c8383375d626dc06602754d4c34e252bc83f31019d",
+  "description": "Spin off ARNI",
+  "image": "https://i.ibb.co/7N12NvhQ/b9975cec2790.jpg",
+  "name": "TERMINATOR",
+  "social": [
+   "https://t.me/termitonator",
+   "https://t.me/termionton"
+  ],
+  "symbol": "TERMI",
+  "websites": [
+   "https://arnold-arni.site/"
+  ]
  },
  {
   "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",
